@@ -1,5 +1,5 @@
 ### Hi there 👋
-Code
+BNB INU. is a delfationary crypto currency that redistributes rewards in BNB. The protocol redistributes rewards to token holders in BNB, along with a certain percentage being burned per transaction. 
 <!--
 **BNBINU/BNBINU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
